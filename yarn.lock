@@ -5038,10 +5038,10 @@ fbjs@^1.0.0:
     setimmediate "^1.0.5"
     ua-parser-js "^0.7.18"
 
-fetchu@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/fetchu/-/fetchu-2.0.1.tgz#a5076618c520ee68afff56b15821c98b9ffefc36"
-  integrity sha512-CVDayWQ740Nl9Dd36O53XzZwGw+o47+S9BDR1FxRud1BcZCskhuKtWrhQzupRrJMy9jyNLwdP70EfkSVyTeQMg==
+fetchu@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/fetchu/-/fetchu-4.1.1.tgz#9949a9c69ee562037ceebaa8daa346e5aa403695"
+  integrity sha512-PGUsNRCP6fZgoxwNf+Y+IN1LpF56eSJphwTv9rVRWH/rDf53fprMVJnsdtIDyWSAFBTunnF9MR/D0AnzTYwTPA==
 
 figgy-pudding@^3.4.1, figgy-pudding@^3.5.1:
   version "3.5.1"
